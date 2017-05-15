@@ -17,7 +17,7 @@ h2{
   font-size: 42;
 }
 
-p{
+.intro{
   font-size: 21;
   color: gray;
 }
@@ -26,10 +26,6 @@ a{
   text-align: center;
   font-size: 16;
   color: Aquamarine;
-}
-
-video{
-  align-items: center;
 }
 
 .copyright{
