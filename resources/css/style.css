@@ -1,8 +1,38 @@
 html{
   background-color: black;
+  text-align: center;
+  font-family: Verdana,sans-serif;
 }
 
 h1{
-  color: SeaGreen;
+  color: white;
   text-align: center;
+  font-weight: normal;
+  font-size: 50;
+}
+
+h2{
+  color: white;
+  font-weight: 300;
+  font-size: 42;
+}
+
+p{
+  font-size: 21;
+  color: gray;
+}
+
+a{
+  text-align: center;
+  font-size: 16;
+  color: Aquamarine;
+}
+
+video{
+  align-items: center;
+}
+
+.copyright{
+  text-align: right;
+  color: gray;
 }
